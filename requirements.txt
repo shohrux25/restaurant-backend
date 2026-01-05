@@ -11,9 +11,11 @@ Django==6.0
 djangorestframework==3.16.1
 dotenv==0.9.9
 frozenlist==1.8.0
+gunicorn==23.0.0
 idna==3.11
 magic-filter==1.0.12
 multidict==6.7.0
+packaging==25.0
 propcache==0.4.1
 pydantic==2.12.5
 pydantic_core==2.41.5

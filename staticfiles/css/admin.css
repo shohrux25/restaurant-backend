@@ -1,0 +1,13 @@
+body {
+    background: #0f172a;
+    color: white;
+    font-family: Arial;
+}
+
+.login-box {
+    width: 350px;
+    margin: 100px auto;
+    padding: 30px;
+    background: #020617;
+    border-radius: 10px;
+}
